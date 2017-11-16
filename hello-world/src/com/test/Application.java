@@ -4,6 +4,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		Util.printText("Hello World");
+		Util.printText("I am so proud of you");
 	}
 
 }
